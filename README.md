@@ -9,7 +9,7 @@ An AI-based smart learning system
 
 
 ## 🔗 Live Demo  
-👉 https://your-link.netlify.app/
+👉 https://calm-bunny-5093ae.netlify.app/
 
 > Learn smarter, not harder. A gamified AI-powered learning experience.
 
